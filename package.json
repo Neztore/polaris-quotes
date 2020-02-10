@@ -1,0 +1,11 @@
+{
+  "name": "polaris-quote-engine",
+  "version": "1.0.2",
+  "description": "A tiny package which provides quotes to Polaris verification bot, and other bots I've made.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Neztore",
+  "license": "MIT"
+}
